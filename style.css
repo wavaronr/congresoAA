@@ -35,6 +35,8 @@ header .container
 header .container .logo
 {
 	width: 80px;
+	box-shadow: black;
+ 
 
 }
 
@@ -228,6 +230,7 @@ footer .redes a{
 	text-align: center;
 	font-size: 20px;
 	color: blue;
+	font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 
 #servicios .bloque-servicio{
